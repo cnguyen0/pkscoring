@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300);
+body {
+	background-color: #77dd77;
+}
+
+.signin {
+	text-align: center;
+	font-family: Oxygen, Helvetica, Arial;
+}
+
+.form-control {
+	margin-bottom: 0.5em;
+}
+
+img {
+	height: 400px;
+	margin-top: 1em;
+}
